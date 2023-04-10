@@ -11,6 +11,20 @@
 		C279AD262876101C0016473D /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C279AD252876101C0016473D /* ContentView.swift */; };
 		C279AD282876101D0016473D /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C279AD272876101D0016473D /* Assets.xcassets */; };
 		C279AD2B2876101D0016473D /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C279AD2A2876101D0016473D /* Preview Assets.xcassets */; };
+		C279AD36287618B80016473D /* CircleImage.swift in Sources */ = {isa = PBXBuildFile; fileRef = C279AD35287618B80016473D /* CircleImage.swift */; };
+		C279AD3828761E7A0016473D /* receiptsData.json in Resources */ = {isa = PBXBuildFile; fileRef = C279AD3728761E7A0016473D /* receiptsData.json */; };
+		C279AD3A28761F3A0016473D /* Receipt.swift in Sources */ = {isa = PBXBuildFile; fileRef = C279AD3928761F3A0016473D /* Receipt.swift */; };
+		C279AD3C287626BB0016473D /* ModelData.swift in Sources */ = {isa = PBXBuildFile; fileRef = C279AD3B287626BB0016473D /* ModelData.swift */; };
+		C279AD402876289B0016473D /* RetailerRow.swift in Sources */ = {isa = PBXBuildFile; fileRef = C279AD3F2876289B0016473D /* RetailerRow.swift */; };
+		C279AD432876A7220016473D /* retailersData.json in Resources */ = {isa = PBXBuildFile; fileRef = C279AD422876A7220016473D /* retailersData.json */; };
+		C279AD452876A73C0016473D /* Retailer.swift in Sources */ = {isa = PBXBuildFile; fileRef = C279AD442876A73C0016473D /* Retailer.swift */; };
+		C279AD472876B9910016473D /* RetailersList.swift in Sources */ = {isa = PBXBuildFile; fileRef = C279AD462876B9910016473D /* RetailersList.swift */; };
+		C279AD492876BDFF0016473D /* ReceiptRow.swift in Sources */ = {isa = PBXBuildFile; fileRef = C279AD482876BDFF0016473D /* ReceiptRow.swift */; };
+		C279AD4D2876BF8B0016473D /* ReceiptsList.swift in Sources */ = {isa = PBXBuildFile; fileRef = C279AD4C2876BF8B0016473D /* ReceiptsList.swift */; };
+		C279AD4F2876C6A50016473D /* ReceiptDetail.swift in Sources */ = {isa = PBXBuildFile; fileRef = C279AD4E2876C6A50016473D /* ReceiptDetail.swift */; };
+		C279AD512876D2E60016473D /* MerchantLogo.swift in Sources */ = {isa = PBXBuildFile; fileRef = C279AD502876D2E60016473D /* MerchantLogo.swift */; };
+		C2B6B5262879E4CE00BDF232 /* LogIn.swift in Sources */ = {isa = PBXBuildFile; fileRef = C2B6B5252879E4CE00BDF232 /* LogIn.swift */; };
+		C2B6B5282879E7DD00BDF232 /* Logo.swift in Sources */ = {isa = PBXBuildFile; fileRef = C2B6B5272879E7DD00BDF232 /* Logo.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +33,20 @@
 		C279AD252876101C0016473D /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		C279AD272876101D0016473D /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		C279AD2A2876101D0016473D /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		C279AD35287618B80016473D /* CircleImage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CircleImage.swift; sourceTree = "<group>"; };
+		C279AD3728761E7A0016473D /* receiptsData.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = receiptsData.json; sourceTree = "<group>"; };
+		C279AD3928761F3A0016473D /* Receipt.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Receipt.swift; sourceTree = "<group>"; };
+		C279AD3B287626BB0016473D /* ModelData.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ModelData.swift; sourceTree = "<group>"; };
+		C279AD3F2876289B0016473D /* RetailerRow.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RetailerRow.swift; sourceTree = "<group>"; };
+		C279AD422876A7220016473D /* retailersData.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = retailersData.json; sourceTree = "<group>"; };
+		C279AD442876A73C0016473D /* Retailer.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Retailer.swift; sourceTree = "<group>"; };
+		C279AD462876B9910016473D /* RetailersList.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RetailersList.swift; sourceTree = "<group>"; };
+		C279AD482876BDFF0016473D /* ReceiptRow.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ReceiptRow.swift; sourceTree = "<group>"; };
+		C279AD4C2876BF8B0016473D /* ReceiptsList.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ReceiptsList.swift; sourceTree = "<group>"; };
+		C279AD4E2876C6A50016473D /* ReceiptDetail.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ReceiptDetail.swift; sourceTree = "<group>"; };
+		C279AD502876D2E60016473D /* MerchantLogo.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MerchantLogo.swift; sourceTree = "<group>"; };
+		C2B6B5252879E4CE00BDF232 /* LogIn.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LogIn.swift; sourceTree = "<group>"; };
+		C2B6B5272879E7DD00BDF232 /* Logo.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Logo.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -51,8 +79,10 @@
 		C279AD222876101C0016473D /* ReceiptViewer */ = {
 			isa = PBXGroup;
 			children = (
+				C279AD412876A51D0016473D /* Resources */,
 				C279AD232876101C0016473D /* ReceiptViewerApp.swift */,
-				C279AD252876101C0016473D /* ContentView.swift */,
+				C279AD3E287627550016473D /* Model */,
+				C279AD3D2876273F0016473D /* Views */,
 				C279AD272876101D0016473D /* Assets.xcassets */,
 				C279AD292876101D0016473D /* Preview Content */,
 			);
@@ -65,6 +95,58 @@
 				C279AD2A2876101D0016473D /* Preview Assets.xcassets */,
 			);
 			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+		C279AD3D2876273F0016473D /* Views */ = {
+			isa = PBXGroup;
+			children = (
+				C279AD252876101C0016473D /* ContentView.swift */,
+				C279AD35287618B80016473D /* CircleImage.swift */,
+				C279AD502876D2E60016473D /* MerchantLogo.swift */,
+				C2B6B5272879E7DD00BDF232 /* Logo.swift */,
+				C2B6B5252879E4CE00BDF232 /* LogIn.swift */,
+				C279AD4B2876BF550016473D /* Receipts */,
+				C279AD4A2876BF400016473D /* Retailers */,
+			);
+			path = Views;
+			sourceTree = "<group>";
+		};
+		C279AD3E287627550016473D /* Model */ = {
+			isa = PBXGroup;
+			children = (
+				C279AD3B287626BB0016473D /* ModelData.swift */,
+				C279AD3928761F3A0016473D /* Receipt.swift */,
+				C279AD442876A73C0016473D /* Retailer.swift */,
+			);
+			path = Model;
+			sourceTree = "<group>";
+		};
+		C279AD412876A51D0016473D /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+				C279AD3728761E7A0016473D /* receiptsData.json */,
+				C279AD422876A7220016473D /* retailersData.json */,
+			);
+			path = Resources;
+			sourceTree = "<group>";
+		};
+		C279AD4A2876BF400016473D /* Retailers */ = {
+			isa = PBXGroup;
+			children = (
+				C279AD3F2876289B0016473D /* RetailerRow.swift */,
+				C279AD462876B9910016473D /* RetailersList.swift */,
+			);
+			path = Retailers;
+			sourceTree = "<group>";
+		};
+		C279AD4B2876BF550016473D /* Receipts */ = {
+			isa = PBXGroup;
+			children = (
+				C279AD482876BDFF0016473D /* ReceiptRow.swift */,
+				C279AD4C2876BF8B0016473D /* ReceiptsList.swift */,
+				C279AD4E2876C6A50016473D /* ReceiptDetail.swift */,
+			);
+			path = Receipts;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -126,6 +208,8 @@
 			buildActionMask = 2147483647;
 			files = (
 				C279AD2B2876101D0016473D /* Preview Assets.xcassets in Resources */,
+				C279AD432876A7220016473D /* retailersData.json in Resources */,
+				C279AD3828761E7A0016473D /* receiptsData.json in Resources */,
 				C279AD282876101D0016473D /* Assets.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -137,8 +221,20 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				C279AD492876BDFF0016473D /* ReceiptRow.swift in Sources */,
+				C279AD452876A73C0016473D /* Retailer.swift in Sources */,
+				C279AD402876289B0016473D /* RetailerRow.swift in Sources */,
+				C279AD3A28761F3A0016473D /* Receipt.swift in Sources */,
+				C279AD512876D2E60016473D /* MerchantLogo.swift in Sources */,
 				C279AD262876101C0016473D /* ContentView.swift in Sources */,
+				C279AD3C287626BB0016473D /* ModelData.swift in Sources */,
+				C279AD4F2876C6A50016473D /* ReceiptDetail.swift in Sources */,
+				C2B6B5282879E7DD00BDF232 /* Logo.swift in Sources */,
+				C279AD4D2876BF8B0016473D /* ReceiptsList.swift in Sources */,
+				C279AD472876B9910016473D /* RetailersList.swift in Sources */,
 				C279AD242876101C0016473D /* ReceiptViewerApp.swift in Sources */,
+				C279AD36287618B80016473D /* CircleImage.swift in Sources */,
+				C2B6B5262879E4CE00BDF232 /* LogIn.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

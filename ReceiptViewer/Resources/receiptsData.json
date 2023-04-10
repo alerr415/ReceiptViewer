@@ -1,0 +1,62 @@
+[
+   {
+    "imageName": "receipt-icon",
+    "merchantLogoName": "aldi",
+    "storename":"Aldi Magyarország Élelmiszer Bt.",
+    "storeaddress":"8200 Veszprém Kistó utca 2.",
+    "storetaxnumber":"123234242-2-44",
+
+    "dateTime":"2022-07-13 16:54:00",
+    "id":"DYJB1QCD4ZS6C",
+
+    "purchaseditem1name":"Coca Cola",
+    "purchaseditem1quantity":"1",
+    "purchaseditem1price":"420",
+
+    "purchaseditem2name":"Pepsi Cola",
+    "purchaseditem2quantity":"3",
+    "purchaseditem2price":"1240",
+
+    "currency":"Ft"
+   },
+   {
+    "imageName": "receipt-icon",
+    "merchantLogoName": "tesco",
+    "storename":"TESCO-GLOBAL Zrt.",
+    "storeaddress":"8200 Veszprém Egyetem utca 12.",
+    "storetaxnumber":"23424222-3-9",
+
+    "dateTime":"2022-06-10 13:54:10",
+    "id":"DYJB1QCD4ZS6CCVF",
+
+    "purchaseditem1name":"Alma",
+    "purchaseditem1quantity":"1",
+    "purchaseditem1price":"50",
+
+    "purchaseditem2name":"Körte",
+    "purchaseditem2quantity":"3",
+    "purchaseditem2price":"240",
+
+    "currency":"Ft"
+   },
+   {
+    "imageName": "receipt-icon",
+    "merchantLogoName": "feltolto_pont_logo",
+    "storename":"Feltöltő Pont Veszprém Kft.",
+    "storeaddress":"8200 Veszprém Egyetem utca 12.",
+    "storetaxnumber":"963424222-3-9",
+
+    "dateTime":"2022-06-10 14:54:10",
+    "id":"DYJB1QCD4ZS6CCVZ",
+
+    "purchaseditem1name":"Alma",
+    "purchaseditem1quantity":"1",
+    "purchaseditem1price":"50",
+
+    "purchaseditem2name":"Körte",
+    "purchaseditem2quantity":"3",
+    "purchaseditem2price":"240",
+
+    "currency":"Ft"
+   }
+]

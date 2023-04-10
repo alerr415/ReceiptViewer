@@ -1,0 +1,58 @@
+[
+   {
+       "imageName": "aldi",
+       "id": 0,
+       "storename":"Aldi Magyarország Élelmiszer Bt.",
+       "storeaddress":"8200 Veszprém Kistó utca 2.",
+       "storetaxnumber":"123234242-2-44",
+       "isFavorite": true
+   },
+   {
+       "imageName": "tesco",
+       "id": 1,
+       "storename":"TESCO-GLOBAL Zrt.",
+       "storeaddress":"8200 Veszprém Egyetem utca 12.",
+       "storetaxnumber":"893424222-3-9",
+       "isFavorite": true
+   },
+   {
+       "imageName": "penny",
+       "id": 2,
+       "storename":"Penny-Market Kft.",
+       "storeaddress":"8200 Veszprém Egyetem utca 16.",
+       "storetaxnumber":"2177424222-3-9",
+       "isFavorite": false
+   },
+   {
+       "imageName": "shell",
+       "id": 3,
+       "storename":"Shell Hungary Zrt.",
+       "storeaddress":"8200 Veszprém Cholnoky utca 1.",
+       "storetaxnumber":"78424222-3-9",
+       "isFavorite": false
+   },
+   {
+       "imageName": "trofea",
+       "id": 4,
+       "storename":"Trófea Grill Étterem",
+       "storeaddress":"8200 Budapest Visegrádi utca 50.",
+       "storetaxnumber":"564424222-3-9",
+       "isFavorite": false
+   },
+   {
+       "imageName": "spar",
+       "id": 5,
+       "storename":"SPAR Magyarország Kft.",
+       "storeaddress":"8200 Budapest Ipari utca 20.",
+       "storetaxnumber":"6542434222-3-9",
+       "isFavorite": false
+   },
+   {
+       "imageName": "feltolto_pont_logo",
+       "id": 6,
+       "storename":"Feltöltő Pont Veszprém Kft.",
+       "storeaddress":"8200 Budapest Ipari utca 20.",
+       "storetaxnumber":"6542434222-3-9",
+       "isFavorite": true
+   }
+]
